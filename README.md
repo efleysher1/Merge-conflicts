@@ -1,2 +1,2 @@
 # Merge-conflicts
-by Elizabeth Fleysher
+a cool demo of merge conflicts by Elizabeth Fleysher
